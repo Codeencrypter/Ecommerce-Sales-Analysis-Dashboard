@@ -2,7 +2,7 @@
 
 ## Introduction:
 
-As a Data Geek and aspiring Data Analyst, I have analyzed the dataset related to an e-commerce business and presented my findings.
+As a Data Geek and an aspiring Data Analyst, I have analyzed the dataset related to an e-commerce business and presented my findings.
 
 ### Questions to Analyze:
 To understand the E-Commerce Business, I asked the following:
@@ -10,7 +10,7 @@ To understand the E-Commerce Business, I asked the following:
 2. Sales & Profit?
 3. State Wise Sales?
 4. Category Wise Profit & Sales?
-5. Top SubCategories by Sales?
+5. Top Sub - Categories by Sales?
 
 ## Excel Skills Used
 The following Excel skills were utilized for analysis:
@@ -27,7 +27,7 @@ It includes detailed information on:
 - 🛠️ Sales
 
   
-  1️⃣ Year-on-Year Growth of E-Commerce Business?
+ ## 1️⃣ Year-on-Year Growth of E-Commerce Business?
 
 ## 🔍 Skill: Power Query (ETL)
 
@@ -135,6 +135,7 @@ It includes detailed information on:
 ---
 
 ## Conclusion
-As a data enthusiast and an aspiring data analyst, I embarked on this Excel-based project to uncover valuable insights about an E-Commerce Business. Using a dataset I’ve undertaken from Kaggle.com, I analyzed the Sales, Profit, Key Performance Indicators, and Year on Year Growth of the Business. By leveraging Excel features like Power Query, PivotTables, and charts, I discovered key correlations between Sales and Profits, particularly in States and Categories in which the business sells the products.
+As a data enthusiast and an aspiring data analyst, I embarked on this Excel-based project to uncover valuable insights about an E-Commerce Business. Using a dataset I’ve undertaken this project from Kaggle and you can find the dataset for this project on [Kaggle's website](https://www.kaggle.com).
+, I analyzed the Sales, Profit, Key Performance Indicators & Year on Year Growth of the Business. By leveraging Excel features like Power Query, PivotTables, and Pivot Charts, I discovered key correlations between Sales and Profits, particularly in States and Categories in which the business sells the products.
 
 I hope this project serves as a practical guide for data professionals and provides an overview of the Excel skills used in analyzing this dataset.
