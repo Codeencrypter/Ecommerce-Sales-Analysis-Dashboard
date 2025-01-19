@@ -1,98 +1,118 @@
 # E-Commerce Business Analysis - Data Analysis Project
 
-## Introduction
+## Introduction:
 
-As a Data Geek and aspiring Data Analyst, I have analyzed a dataset related to an e-commerce business and presented my findings. This project leverages Excel skills to uncover valuable insights into the business's performance, including year-on-year growth, sales & profit analysis, state-wise sales, category-wise profit & sales, and the top subcategories by sales.
+As a Data Geek and aspiring Data Analyst, I have analyzed the dataset related to an e-commerce business and presented my findings.
 
-## Questions to Analyze
-
-To understand the E-Commerce Business, I focused on the following key questions:
-1. **Year on Year Growth** of the business
-2. **Sales & Profit** trends
-3. **State-wise Sales** distribution
-4. **Category-wise Profit & Sales** breakdown
-5. **Top Subcategories by Sales**
+### Questions to Analyze:
+To understand the E-Commerce Business, I asked the following:
+1. Year on Year Growth of the business?
+2. Sales & Profit?
+3. State Wise Sales?
+4. Category Wise Profit & Sales?
+5. Top SubCategories by Sales?
 
 ## Excel Skills Used
-
-Throughout the analysis, I utilized the following Excel skills:
-- **Pivot Tables** 📊
-- **Pivot Charts** 📈
-- **Power Pivot** 💪
-- **Power Query** (ETL) 🔍
+The following Excel skills were utilized for analysis:
+- 📊 Pivot Tables
+- 📈 Pivot Charts
+- 💪 Power Pivot
 
 ## E-Commerce Business Dataset
+The dataset used for this project contains data extracted from Kaggle.com. The dataset is available on Kaggle.com, providing a foundation for analyzing data using Excel.
+It includes detailed information on:
+- 👨‍💼 Customers
+- 💰 Products
+- 📍 Orders
+- 🛠️ Sales
 
-The dataset used for this project is from Kaggle.com and includes data relevant to an e-commerce business, including:
-- **Customers** 👨‍💼
-- **Products** 💰
-- **Orders** 📍
-- **Sales** 🛠️
-
-The dataset is available for download on Kaggle.com and provides a foundation for analyzing the business data in Excel.
-
-## Process
-
-### 1. Data Extraction (ETL with Power Query)
-I began by using **Power Query** to extract the original dataset (`Ecommerce Sales Analysis Dashboard.xlsx`), which served as the basis for my analysis.
-
-### 2. Data Transformation
-I transformed the dataset by:
-- Changing column types
-- Sorting rows
-- Reordering columns
-- Trimming excess whitespace
-
-### 3. Data Loading
-The transformed dataset was then loaded into an Excel workbook, setting the stage for deeper analysis.
-
-## Key Insights
-
-### 1. Year-on-Year Growth of the Business
-- **Yearly Growth**: The e-commerce business saw a **positive year-on-year growth** with a **20.62% increase in sales** and a **14.41% increase in profits**.
-- **Profit Margin**: Although the profit margin has slightly decreased, the overall growth trend remains positive.
   
-**So What**: This indicates a strong long-term growth trajectory. The focus should now shift toward optimizing the profit margin alongside boosting sales.
+  1️⃣ Year-on-Year Growth of E-Commerce Business?
 
-### 2. Sales & Profit Analysis
-- **Highest Sales & Profit**: December was the highest-performing month for both sales and profits, followed by November and September.
-- **Slow Months**: January, February, and April showed lower sales and profits.
+## 🔍 Skill: Power Query (ETL)
 
-**So What**: This monthly variation in sales and profits is crucial for business planning. The company should align product distribution strategies with these seasonal trends.
+### 📥 Extract
+- I first used Power Query to extract the original data (`Ecommerce Sales Analysis Dashboard.xlsx`).
 
-### 3. State-wise Sales Distribution
-- **Top Performing States**: California, New York, and Texas contributed the most to sales.
-- **Lowest Sales**: States like West Virginia, Maine, and South Dakota had significantly lower sales, totaling only $3.8K out of the overall $2.297 million in sales.
+### 🔄 Transform
+- Then, I transformed the query by changing column types, sorting the rows, reordering the columns, and trimming excess whitespace.
+- 📊 E-Commerce Dataset
 
-**So What**: The company should focus on increasing product supply and marketing efforts in high-performing states like California, New York, and Texas. Additionally, understanding market dynamics in states with lower sales can help optimize sales and competitiveness.
+  ![E-Commerce Dashboard](![Applie Steps Power Query](https://github.com/user-attachments/assets/06d3f8b5-9bee-4614-aeb6-593f0d8b8f2a)
+)
 
-### 4. Category-wise Profit & Sales Breakdown
-- **Top Category**: The Technology category, particularly the Phones subcategory, was the largest driver of sales.
-- **Underperforming Category**: The Furniture category contributed only $18.45K in sales.
 
-**So What**: The Technology sector has proven to be the most profitable, and the company should continue to focus on enhancing its product offerings and marketing strategies in this category. Conversely, efforts should be made to improve the Furniture category's performance.
+### Load
+- Finally, I loaded the transformed query into the workbook, setting the foundation for my subsequent analysis.
+  - 📊 E-Commerce Dataset
+
+## 📊 Analysis
+
+### 💡 Insights
+- 📈 There is a positive Year on Year Growth of the E-Commerce Business with Sales & Profit being increased by 20.62% & 14.41% yearly respectively.
+- Although the profit margin has reduced yearly, it has not hampered the overall growth of the business.
+
+### 🤔 So What
+- This trend shows positive long-term growth for the E-Commerce Business, focus should be on increasing the profit margin along with more sales.
+
+---
+
+### 2️⃣ Overall Sales & Profit of the business?
+
+🧮 Skills: PivotTables  
+📈 **Pivot Table**
+- 🔢 I created a PivotTable using the Data Model I created with Power Pivot.
+- 📊 I moved the Months (Order date) to the rows area and the Sum of Sales & Sum of Profit into the values area.
+
+### 📊 Analysis
+
+💡 **Insights**
+- 💼 Sales & Profit Analysis depicts that the month of December has been the highest sales & profit driver, followed by November & September.
+- 💰 While the months of January, February & April being the slowest.
+
+### 🤔 So What
+- These Sales & Profit insights are important for planning and helping professionals and the business to align their product distribution according to the monthly sales variations.
+
+---
+
+### 3️⃣ State Wise Sales?
+
+🧮 Skills: PivotTables  
+📈 **Pivot Table**
+- 🔢 I created a PivotTable using the Data Model I created with Power Pivot.
+- 📊 I moved the (States) column to the rows area and the (Sum of Sales) column into the values area.
+
+### 📊 Analysis
+
+💡 **Insights**
+- 💼 Analysis depicts California, New York & Texas are the Top 3 States by Sales.
+- 💰 The Sales are lowest in West Virginia, Maine & South Dakota, which are only contributing only 3.8K out of total sales of 2297.20K.
+
+### 🤔 So What
+- The Company should focus more on increasing the supply of products and do more heavy marketing in the states of California, New York & Texas in order to drive more sales and profit.
+- Understanding the market better in the states with the lowest sales will help the company be more competitive in the market and optimize the sales.
+
+---
+
+### 4️⃣ Category Wise Profit & Sales?
+
+🧮 Skills: Advanced Charts (Pivot Chart)  
+📈 **PivotChart**
+- I created a Waterfall PivotChart to plot Category & Grand Total from my PivotTable.
+- To customize the chart, I added a title axis title, removed the gridlines, added data labels, and added colors to effectively showcase the distribution of different categories.
+
+### 📊 Analysis
+
+💡 **Insights**
+- 💰 Technology Category is the Largest Category which has driven the Sales for the Company with its subcategory being Phones.
+- The Furniture category has been least fruitful for the company as only $18.45K has been the revenue from this category.
+
+### 🤔 So What
+- This Bar & Waterfall Chart highlights that the Technology Sector has been the best-selling category and the company should enhance the focus on this category by improving the standards and marketing, so the competitive edge would be in favor of the business.
+
+---
 
 ## Conclusion
+As a data enthusiast and an aspiring data analyst, I embarked on this Excel-based project to uncover valuable insights about an E-Commerce Business. Using a dataset I’ve undertaken from Kaggle.com, I analyzed the Sales, Profit, Key Performance Indicators, and Year on Year Growth of the Business. By leveraging Excel features like Power Query, PivotTables, and charts, I discovered key correlations between Sales and Profits, particularly in States and Categories in which the business sells the products.
 
-This project provided valuable insights into the e-commerce business's performance, utilizing Excel features like Power Query, PivotTables, and PivotCharts. By analyzing the dataset, I uncovered key correlations between sales, profit, and the business's performance across various dimensions, including states and product categories.
-
-As a data enthusiast and aspiring data analyst, I hope this project serves as a practical guide for others and highlights the importance of utilizing Excel for data analysis.
-
-## Skills Demonstrated
-- **Power Query (ETL)**: Extracting, transforming, and loading data into the analysis workflow.
-- **Power Pivot**: Creating data models for in-depth analysis.
-- **Pivot Tables & Charts**: Summarizing and visualizing data.
-- **Advanced Excel Skills**: Analyzing and visualizing business performance with ease.
-
-## How to Use This Repository
-
-1. **Clone the repository** to your local machine.
-2. Open the **Excel file** (`Ecommerce Sales Analysis Dashboard.xlsx`) to view the dataset and analysis.
-3. Use the provided **PivotTables**, **PivotCharts**, and **Power Query transformations** to explore the data further.
-4. Customize the analysis based on your needs or apply similar techniques to your own dataset.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-
+I hope this project serves as a practical guide for data professionals and provides an overview of the Excel skills used in analyzing this dataset.
