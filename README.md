@@ -38,19 +38,27 @@ It includes detailed information on:
 - Then, I transformed the query by changing column types, sorting the rows, reordering the columns, and trimming excess whitespace.
 - 📊 E-Commerce Dataset
 
-  ![E-Commerce Dashboard](![Applie Steps Power Query](https://github.com/user-attachments/assets/06d3f8b5-9bee-4614-aeb6-593f0d8b8f2a)
+  (![Applie Steps Power Query](https://github.com/user-attachments/assets/06d3f8b5-9bee-4614-aeb6-593f0d8b8f2a)
 )
 
 
 ### Load
 - Finally, I loaded the transformed query into the workbook, setting the foundation for my subsequent analysis.
   - 📊 E-Commerce Dataset
+ 
+    (![Power Query Outlook Screenshot](https://github.com/user-attachments/assets/3f3d476c-9ea2-4966-85ae-a23f87c6893e)
+)
+
 
 ## 📊 Analysis
 
 ### 💡 Insights
 - 📈 There is a positive Year on Year Growth of the E-Commerce Business with Sales & Profit being increased by 20.62% & 14.41% yearly respectively.
 - Although the profit margin has reduced yearly, it has not hampered the overall growth of the business.
+
+  (![SS YEAR ON YEAR GROWTH](https://github.com/user-attachments/assets/14bbd7ae-a701-4543-939b-2bfc09687d90)
+)
+
 
 ### 🤔 So What
 - This trend shows positive long-term growth for the E-Commerce Business, focus should be on increasing the profit margin along with more sales.
@@ -70,6 +78,11 @@ It includes detailed information on:
 - 💼 Sales & Profit Analysis depicts that the month of December has been the highest sales & profit driver, followed by November & September.
 - 💰 While the months of January, February & April being the slowest.
 
+  (![SS OF SALES   PROFIT](https://github.com/user-attachments/assets/3ec171b2-b9cf-42a2-b752-c84f488a6642)
+)
+
+
+
 ### 🤔 So What
 - These Sales & Profit insights are important for planning and helping professionals and the business to align their product distribution according to the monthly sales variations.
 
@@ -87,6 +100,10 @@ It includes detailed information on:
 💡 **Insights**
 - 💼 Analysis depicts California, New York & Texas are the Top 3 States by Sales.
 - 💰 The Sales are lowest in West Virginia, Maine & South Dakota, which are only contributing only 3.8K out of total sales of 2297.20K.
+
+  (![SS OF Map Chart](https://github.com/user-attachments/assets/a793666a-195b-4dd6-bda4-4b109f1cd291)
+)
+
 
 ### 🤔 So What
 - The Company should focus more on increasing the supply of products and do more heavy marketing in the states of California, New York & Texas in order to drive more sales and profit.
@@ -106,6 +123,11 @@ It includes detailed information on:
 💡 **Insights**
 - 💰 Technology Category is the Largest Category which has driven the Sales for the Company with its subcategory being Phones.
 - The Furniture category has been least fruitful for the company as only $18.45K has been the revenue from this category.
+
+  ![SS Waterfall Chart](https://github.com/user-attachments/assets/53fa9e9f-7885-4ed3-a09e-dab1a7900ca4)
+  ![SS Subcategories](https://github.com/user-attachments/assets/c769833f-c76c-4f3b-9add-89dad4b7f74a)
+
+
 
 ### 🤔 So What
 - This Bar & Waterfall Chart highlights that the Technology Sector has been the best-selling category and the company should enhance the focus on this category by improving the standards and marketing, so the competitive edge would be in favor of the business.
