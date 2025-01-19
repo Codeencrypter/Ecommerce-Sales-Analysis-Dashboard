@@ -38,16 +38,16 @@ It includes detailed information on:
 - Then, I transformed the query by changing column types, sorting the rows, reordering the columns, and trimming excess whitespace.
 - 📊 E-Commerce Dataset
 
-  (![Applie Steps Power Query](https://github.com/user-attachments/assets/06d3f8b5-9bee-4614-aeb6-593f0d8b8f2a)
-)
+  ![Applie Steps Power Query](https://github.com/user-attachments/assets/06d3f8b5-9bee-4614-aeb6-593f0d8b8f2a)
+
 
 
 ### Load
 - Finally, I loaded the transformed query into the workbook, setting the foundation for my subsequent analysis.
   - 📊 E-Commerce Dataset
  
-    (![Power Query Outlook Screenshot](https://github.com/user-attachments/assets/3f3d476c-9ea2-4966-85ae-a23f87c6893e)
-)
+    ![Power Query Outlook Screenshot](https://github.com/user-attachments/assets/3f3d476c-9ea2-4966-85ae-a23f87c6893e)
+
 
 
 ## 📊 Analysis
@@ -56,8 +56,8 @@ It includes detailed information on:
 - 📈 There is a positive Year on Year Growth of the E-Commerce Business with Sales & Profit being increased by 20.62% & 14.41% yearly respectively.
 - Although the profit margin has reduced yearly, it has not hampered the overall growth of the business.
 
-  (![SS YEAR ON YEAR GROWTH](https://github.com/user-attachments/assets/14bbd7ae-a701-4543-939b-2bfc09687d90)
-)
+  ![SS YEAR ON YEAR GROWTH](https://github.com/user-attachments/assets/14bbd7ae-a701-4543-939b-2bfc09687d90)
+
 
 
 ### 🤔 So What
@@ -78,8 +78,8 @@ It includes detailed information on:
 - 💼 Sales & Profit Analysis depicts that the month of December has been the highest sales & profit driver, followed by November & September.
 - 💰 While the months of January, February & April being the slowest.
 
-  (![SS OF SALES   PROFIT](https://github.com/user-attachments/assets/3ec171b2-b9cf-42a2-b752-c84f488a6642)
-)
+  ![SS OF SALES   PROFIT](https://github.com/user-attachments/assets/3ec171b2-b9cf-42a2-b752-c84f488a6642)
+
 
 
 
@@ -101,8 +101,8 @@ It includes detailed information on:
 - 💼 Analysis depicts California, New York & Texas are the Top 3 States by Sales.
 - 💰 The Sales are lowest in West Virginia, Maine & South Dakota, which are only contributing only 3.8K out of total sales of 2297.20K.
 
-  (![SS OF Map Chart](https://github.com/user-attachments/assets/a793666a-195b-4dd6-bda4-4b109f1cd291)
-)
+  ![SS OF Map Chart](https://github.com/user-attachments/assets/a793666a-195b-4dd6-bda4-4b109f1cd291)
+
 
 
 ### 🤔 So What
